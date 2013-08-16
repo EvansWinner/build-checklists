@@ -23,7 +23,10 @@ As distributed, there are two small schedules already set up, called
 "morning" and "night" which should make it apparent how the thing
 works.  Just double click on build-checklists.bat to see it work.  It
 will create the two new schedule templates in the top-level, called
-`morning.txt` and `night.txt`.
+`morning.txt` and `night.txt`.  You will notice that the steps as I
+have written them result in a checklist in Emacs' `org-mode` format,
+which I personally find quite convenient.  You can format your steps
+files in any way you like, of course.
 
 The directory `./steps` contains text files.  Each one contains
 instructions for one single step or logically unified group of steps.
