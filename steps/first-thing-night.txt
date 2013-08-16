@@ -1,0 +1,6 @@
+* RUN THE SNIZZLE PROCESS 
+
+   - From the command line, type SNIZZLE
+   - [ ] Select option 1 to view the snot status.
+   
+   Verify that all snizzes have slurped correctly.

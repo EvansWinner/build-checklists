@@ -1,0 +1,6 @@
+* WRAP-UP
+
+  - [ ] Turn off the lights and the coffee pot
+  - [ ] FTP the splat file to the Daily Planet
+  - [ ] Go home
+

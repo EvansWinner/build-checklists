@@ -1,0 +1,4 @@
+* FROBNICATE
+
+  - Twice each day all frizzles must be frobnicated.  Refer to the
+    documentation on the internal wiki for more information.
