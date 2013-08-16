@@ -1,1 +1,6 @@
 No, really.
+
+I refer here to the files generated automatically
+by build-checklists.bat, not to the files in the
+./skel and ./steps directories.  Those are the ones
+you should edit.
