@@ -17,7 +17,11 @@ cetera).
 
 The schedule templates are generated using the program
 `build-checklists.bat` in this directory.  It can be run by
-double-clicking.
+double-clicking.  Note that you should keep the directory structure
+as it is -- you should run the batch file from the top level of the
+distribution, and the `./skel` and `./steps` directories should
+be located in that top level as well.  And your templates will be
+generated in that top level too.
 
 As distributed, there are two small schedules already set up, called
 "morning" and "night" which should make it apparent how the thing
